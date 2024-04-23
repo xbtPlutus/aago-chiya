@@ -1,0 +1,28 @@
+{
+  "name": "aago-chiya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "matka-tea-new": "2.0.0",
+    "matka-app": "0.1.0",
+    "axios": "^2.3.0",
+    "formik": "^3.3.1",
+    "lodash": "^4.17.21",
+    "yup": "^0.32.11",
+    "webpack": "5.66.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xbtPlutus/aago-chiya"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xbtPlutus/aago-chiya/issues"
+  },
+  "homepage": "https://github.com/xbtPlutus/aago-chiya#readme"
+}
