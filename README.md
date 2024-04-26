@@ -1,6 +1,6 @@
 # NPM Project
 
-This is a basic npm project with a simple `index.js` file that logs "Hello, World!" to the console.
+This is a basic npm project with `index.js` that logs "Hello, World!" to the console.
 
 ## Getting Started
 
